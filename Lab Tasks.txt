@@ -1,0 +1,19 @@
+Lab 1 Task:
+Explore the different hardware components of a computer, focusing on input and output units, as well as the internal components inside the computer case. Make an effort to discover something new that we haven't covered in class, as I will ask about it. Feel free to use resources like ChatGPT, YouTube, etc., and I encourage you to do so.
+
+Watch the video on assembling and disassembling internal computer components: https://youtu.be/mozlEPyeVAY?si=L_Y4drJs5tApsAMN
+
+
+Lab 2 Task:
+Study operating systems and watch the video links provided in the slides. Open and familiarize yourself with the following utilities:
+- Control Panel
+- User Accounts
+- Computer Management
+- Device Manager
+- Hostname
+
+Feel free to use resources like ChatGPT, YouTube, etc., and I encourage you to do so.
+
+Watch the following videos:
+- Ubuntu installation in VMWare: https://youtu.be/Q0Na0f1NtpA?si=n3FSExj9NC6Izr9I
+- Windows 11 installation by bypassing system requirements: https://youtu.be/q9lq4FcDK4k?si=a4JKuUXeItLIiCp5
