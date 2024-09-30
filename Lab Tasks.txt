@@ -17,3 +17,12 @@ Feel free to use resources like ChatGPT, YouTube, etc., and I encourage you to d
 Watch the following videos:
 - Ubuntu installation in VMWare: https://youtu.be/Q0Na0f1NtpA?si=n3FSExj9NC6Izr9I
 - Windows 11 installation by bypassing system requirements: https://youtu.be/q9lq4FcDK4k?si=a4JKuUXeItLIiCp5
+
+Lab 2 Task:
+Dear Students, Assalam o Alaikum,
+I hope you're all doing well. To make your weekend a bit more productive, I’m giving you a new assignment. The topic is "GitHub." Your task is to research and answer the following: What is GitHub? Why is it used? How does it work? Where is it applied? What role does the command prompt play in it? You should be prepared to discuss these questions confidently in real-life situations.
+
+After conducting your research, create a 2-3 page Word document explaining GitHub in your own words. Please note that the introduction page will not count towards the page total. You are welcome to use resources like YouTube, ChatGPT, and other online platforms for your study.
+Keep in mind: If your submission doesn’t meet the requirements or contains copied content, you will be asked questions during class. Unsatisfactory answers may result in a deduction of marks.
+
+Best of luck!
