@@ -1,0 +1,5 @@
+Scenario Statement:
+
+Sophie, a recent graduate with a degree in Business Administration and a specialization in Finance, is evaluating job offers from several prominent companies in the IT services and banking sectors. Using a comprehensive dataset, she analyzes factors such as company ratings, job security, skill development opportunities, and salary levels. Sophie aims to identify the best fit for her career aspirations, focusing on companies like TCS and Accenture, which are known for their strong job security and positive company culture. As she weighs her options, she employs Excel to create a scoring model to visually compare her choices, ultimately seeking to secure a position that aligns with her professional goals and values.
+
+Import the CSV file, and if needed, split the columns to organize the data properly. Utilize conditional functions in Excel to analyze and meet the specified requirements.
