@@ -1,10 +1,10 @@
-Lab 1 Task:
+Lab Task 1:
 Explore the different hardware components of a computer, focusing on input and output units, as well as the internal components inside the computer case. Make an effort to discover something new that we haven't covered in class, as I will ask about it. Feel free to use resources like ChatGPT, YouTube, etc., and I encourage you to do so.
 
 Watch the video on assembling and disassembling internal computer components: https://youtu.be/mozlEPyeVAY?si=L_Y4drJs5tApsAMN
 
 
-Lab 2 Task:
+Lab Task 2:
 Study operating systems and watch the video links provided in the slides. Open and familiarize yourself with the following utilities:
 - Control Panel
 - User Accounts
@@ -18,11 +18,28 @@ Watch the following videos:
 - Ubuntu installation in VMWare: https://youtu.be/Q0Na0f1NtpA?si=n3FSExj9NC6Izr9I
 - Windows 11 installation by bypassing system requirements: https://youtu.be/q9lq4FcDK4k?si=a4JKuUXeItLIiCp5
 
-Lab 2 Task:
+Lab Task 3:
 Dear Students, Assalam o Alaikum,
 I hope you're all doing well. To make your weekend a bit more productive, I’m giving you a new assignment. The topic is "GitHub." Your task is to research and answer the following: What is GitHub? Why is it used? How does it work? Where is it applied? What role does the command prompt play in it? You should be prepared to discuss these questions confidently in real-life situations.
 
 After conducting your research, create a 2-3 page Word document explaining GitHub in your own words. Please note that the introduction page will not count towards the page total. You are welcome to use resources like YouTube, ChatGPT, and other online platforms for your study.
 Keep in mind: If your submission doesn’t meet the requirements or contains copied content, you will be asked questions during class. Unsatisfactory answers may result in a deduction of marks.
+
+Best of luck!
+
+Lab Task 4:
+Assalam o Alaikum Dear Students,
+I hope you're all doing well. To help deepen your understanding of Networking and IP Address concepts, I am assigning a handwritten assignment that is due on Thursday, October 24, 2024. Please address the following questions in your submission:
+
+1. What is computer networking?
+2. What is the difference between a Hub, Switch, Router, and Modem?
+3. What is an IP Address, and what are its types and classes?
+
+You are encouraged to use any technology resources for study purposes, but make sure to write the assignment in your own words. Any instances of plagiarism will result in disciplinary action.
+
+Lab Task 5:
+Your assignment is to study the tags covered up to Lab 22. For each tag, write a brief one-line description and list a few of its attributes. The goal of this task is to help you understand each tag clearly. Before listing the attributes, make sure to study them thoroughly and their values.
+
+You are required to submit a handwritten assignment on clean white pages. The submission deadline is 19th December 2024. No late submissions will be accepted, and no exceptions will be made.
 
 Best of luck!
