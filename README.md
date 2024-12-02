@@ -29,7 +29,7 @@ This course provides hands-on experience in essential computing skills, covering
    - **JavaScript**: Basics of scripting, control structures, DOM manipulation, and form validation.  
    - **Project**: A small web development project using HTML, CSS, and JavaScript.
 
-** 📋 Course Outline**
+###  📋 Course Outline
 1. Understand computer hardware components, install and configure an operating system, and demonstrate the ability to use command-line tools and batch scripting for system management tasks.
 2. Apply skills in document creation, data analysis, and presentation using software applications like Microsoft Word, Excel, and PowerPoint.
 3. Configure and troubleshoot basic networking setups, including IP addressing, file sharing, and remote desktop connections, while understanding network devices and functions.
